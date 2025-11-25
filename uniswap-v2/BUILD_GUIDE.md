@@ -47,7 +47,7 @@ src/
 - `approve(address, uint256)` - 授权
 - `allowance(address, address)` - 查询授权额度
 
-**测试位置**: 这一步可以不需要单独测试，会在后续合约测试中验证
+**测试位置**: 这一步可以约测试中验证
 
 ---
 
